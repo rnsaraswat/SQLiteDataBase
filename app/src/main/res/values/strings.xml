@@ -7,9 +7,17 @@
     <string name="delete">Delete Contact</string>
     <string name="title_activity_display_contact">DisplayContact</string>
     <string name="name">Name</string>
+    <string name="midname">Middle Name</string>
+    <string name="surname">Surname</string>
     <string name="phone">Phone</string>
+    <string name="homephone">Home Phone</string>
+    <string name="mob1phone">Mobile Phone no 1</string>
+    <string name="mob2phone">Mobile Phone no 2</string>
     <string name="email">Email</string>
-    <string name="street">Street</string>
+    <string name="houseno">House/Flat No.</string>
+    <string name="Building">Building/Socity</string>
+    <string name="street">Street/Road</string>
+    <string name="area">Area</string>
     <string name="country">City/State/Zip</string>
     <string name="save">Save Contact</string>
     <string name="deleteContact">Are you sure, you want to delete it.</string>
@@ -19,8 +27,16 @@
     <string name="tutorials_point">Tutorials Point</string>
     <string name="todo">TODO</string>
     <string name="enter_name">Enter Name</string>
+    <string name="enter_midname">Enter Middle Name</string>
+    <string name="enter_surname">Enter Surname</string>
     <string name="enter_phone_no">Enter Phone no</string>
+    <string name="enter_homephone_no">Enter Home Phone no</string>
+    <string name="enter_mob1phone_no">Enter MobilePhone no 1</string>
+    <string name="enter_mob2phone_no">Enter Mobile Phone no 2</string>
+    <string name="enter_house_no">Enter Flat/House No</string>
+    <string name="enter_buildingstreet_no">Enter Building/Socity Name</string>
     <string name="enter_street_no">Enter Street No</string>
+    <string name="enter_areastreet_no">Enter Area Name</string>
     <string name="enter_email_address">Enter Email address</string>
     <string name="enter_city_state_pin">Enter City/State/PIN</string>
 </resources>
